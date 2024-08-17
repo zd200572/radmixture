@@ -60,6 +60,10 @@
 #' @format A data frame with 166770 rows and 5 columns. 
 "K12b.alleles"
 
+#' SNPs used in Dog
+#' @description Dog.alleles is a description of all SNPs used in Dog. 
+#' @format A data frame with 1261 rows and 5 columns. 
+"Dog.alleles"
 
 #' K12b frequency matrix
 #' @description K12b.12.F is a frequency matrix used in K12b.
